@@ -1,2 +1,6 @@
 # dio_Repo
-DIO Repository
+DIO projects repository
+
+
+## Links
+[Basic Markdown Syntax](https://www.markdownguide.org/)
